@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLC59731D
+D Serial LED Driver
+K LED driver
+$ENDCMP
+#
+#End Doc Library
